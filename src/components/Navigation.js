@@ -10,7 +10,7 @@ const Navigation = () => {
     return (
         <div className='w-100'>
             <div className="ca">
-                <div>Tokenaddress: xxxxxxxxxxxxxxxxxxxxxxxxxxxx</div>
+                <div>SOLANA SPL Tokenaddress:AZ6FCRWBBo764EpeozjKkbcE2Zp9cnrtWJBf88rEoYsP</div>
             </div>
             <Navbar expand="lg" variant="dark" className='pt-4'>
                 <Container>
