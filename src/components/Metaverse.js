@@ -22,7 +22,7 @@ const Metaverse = () => {
                                     <li>Competitions and contests (Twitter, Tiktok...)</li>
                                     <li>AlephShibNFT launch</li>
                                     <li>Alephshib Portfolio Tracker</li>
-                                    <li>AlephshibMerch, And more to come</li>
+                                    <li>AlephshibMerch, And more to come</li> 
                                 </ul>
                             </div>
                         </div>

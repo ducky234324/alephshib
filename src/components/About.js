@@ -7,9 +7,9 @@ const About = () => {
             <Container>
                 <div className='content-section'>
                     <h2 className='section-title'>Mission Statement</h2>
-                    <p>The Aleph shib project aims to introduce individuals to the Aleph Zero ecosystem through its fun and friendly mascot, Alephshib!</p>
-                    <p>The project is community-owned and managed, with strict limits on individual holdings to promote decentralization and widespread adoption.</p>
-                    <p>By leveraging the power of memes and community-driven content creation, Alephshib aims to increase awareness and understanding of the Aleph Zero  universe, serving as a guide and companion to all along the way!</p>
+                    <p>$DUSTIES is a pioneering SPL (Solana Program Library) token project designed to revolutionize passive income in decentralized finance. </p>
+                    <p>The project introduces an innovative distribution mechanism, utilizing transaction taxes to purchase DUST tokens from the market, </p>
+                    <p>which are then distributed to holders on a weekly basis.</p>
                 </div>
             </Container>
         </div>

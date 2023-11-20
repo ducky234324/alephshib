@@ -2,7 +2,7 @@ import React from 'react'
 import { Row, Col, Container } from 'react-bootstrap'
 import square1 from '../images/icons/square1.svg'
 import square2 from '../images/icons/square2.svg'
-import logo from '../images/alephshib.png'
+import logo from '../images/dustiescircle.png'
 
 const Tokenomics = () => {
     return (
@@ -20,13 +20,13 @@ const Tokenomics = () => {
                             <Row>
                                 <Col md={3}>
                                     <div className='hero-gradient-1'>
-                                        <h4>6%</h4>
+                                        <h4>2%</h4>
                                         <p>Tax</p>
                                     </div>
                                 </Col>
                                 <Col md={6}>
                                     <div className='hero-gradient-1'>
-                                        <h4>1,000,000,000</h4>
+                                        <h4>1,000,000,000 DUSTIES</h4>
                                         <p>Total Supply</p>
                                     </div>
                                 </Col>

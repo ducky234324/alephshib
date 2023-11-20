@@ -1,6 +1,6 @@
 import React from 'react'
 // import './navigation.css'
-import logo from '../images/alephshib-logo.svg'
+import logo from '../images/dusties_logo.png'
 import { Navbar, Container, Nav, Button } from 'react-bootstrap'
 import {
     Link,
@@ -10,7 +10,7 @@ const Navigation = () => {
     return (
         <div className='w-100'>
             <div className="ca">
-                <div>CA: 5DhKuX1xTAho9J8YQiYYQXka2VwJH5XVcvmArFttAT9uXh9m</div>
+                <div>Tokenaddress: xxxxxxxxxxxxxxxxxxxxxxxxxxxx</div>
             </div>
             <Navbar expand="lg" variant="dark" className='pt-4'>
                 <Container>
@@ -19,8 +19,7 @@ const Navigation = () => {
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="ms-auto my-2 my-lg-0">
                             <Nav.Link href="#about">About</Nav.Link>
-                            <Nav.Link href="#how-to-buy">How to Buy</Nav.Link>
-                            <Nav.Link href="#metaverse">Metaverse</Nav.Link>
+                            <Nav.Link href="https://dusties.gitbook.io/dusties/">Whitepaper</Nav.Link>
                             <Nav.Link href="#roadmap">Roadmap</Nav.Link>
                             {/* <Nav.Link className='loginLink' as={Link} to="/">Login</Nav.Link> */}
                             {/* <iframe class="formlets-iframe" src="https://www.formlets.com/forms/EibrIkdhyqrItSo1/?iframe=true&nofocus=y"

@@ -1,9 +1,9 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import longetivity from '../images/alephshib-longetivity.jpeg'
-import banner from '../images/alephshib-banner.jpg'
-import fun from '../images/alephshib-fun.jpeg'
-import community from '../images/alephshib-open-community.jpeg'
+import longetivity from '../images/dusties_balance.png'
+import banner from '../images/dusties_mechanics.png'
+import fun from '../images/dusties_chart.png'
+import community from '../images/dusties_community.png'
 // import fun from '../images/fun.jpg'
 
 const Vision = () => {
@@ -17,9 +17,9 @@ const Vision = () => {
                     <Col md={6} className='mb-4'>
                         <div className='section-inner' data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">
                             <div>
-                                <h4>Dedication</h4>
-                                <p>Like the legendary Shiba Inu, Alephshib is here to be a guide and companion for every single community member as they explore the Aleph zero universe.</p>
-                                <p>Alephshib is loyal to Aleph zero community, and will introduce new participants to the blockchain’s innovations with a warm smile and a helping hand!</p>
+                                <h4>Mechanics</h4>
+                                <p>Dusties employs a unique distribution mechanism where transaction taxes are utilized to acquire $DUST tokens on Solana.</p>
+                                <p> The acquired DUST tokens are subsequently distributed to $Dusties holders weekly, creating a continuous and predictable income stream for the community.</p>
                             </div>
                         </div>
                     </Col>
@@ -33,9 +33,9 @@ const Vision = () => {
                     <Col md={6} className='order-sm-first order-md-last order-lg-last ms-auto mb-4'>
                         <div className='section-inner' data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">
                             <div>
-                                <h4>Longetivity</h4>
-                                <p>Aleph Shib is a long term dedicated project to the community. </p>
-                                <p>We seek to achieve long term objectives and collaboration within Aleph Zero Ecosystem.</p>
+                                <h4>Passive income</h4>
+                                <p>Dusties (DUST) is the native utility token on the Solana blockchain, providing holders with a seamless and passive income generation experience. </p>
+                                <p>The tokenomics of Dusties are designed to incentivize liquidity provision, community engagement, and sustainable project development.</p>
                             </div>
                         </div>
                     </Col>
@@ -49,9 +49,11 @@ const Vision = () => {
                     <Col md={6} className='mb-4'>
                         <div className='section-inner' data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">
                             <div>
-                                <h4>FUN</h4>
-                                <p>Blockchain and cryptocurrency technology can be daunting and scary, but it doesn’t have to be!</p>
-                                <p>Alephshib help everyone understand that crypto can be a space for creativity, collaboration, and connection. Alephshib is a place where people’s talents and skills can shine, and where everyone has something to enjoy!</p>
+                                <h4>Tokenomics</h4>
+                                <p>Liquidity Pool (LP): 70%</p>
+                                <p>Airdrops: 15%</p>
+                                <p>Team: 5% (subject to a vesting schedule)</p>
+                                <p>Marketing: 10%</p>
                             </div>
                         </div>
                     </Col>
@@ -66,7 +68,7 @@ const Vision = () => {
                         <div className='section-inner' data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">
                             <div>
                                 <h4>Open Community</h4>
-                                <p>Alephshib was designed to support a large number of smaller token holders, who will all participate in and benefit from the growth and development of Alephshib Community.</p>
+                                <p>Dusties is committed to providing tangible benefits to its community members, ensuring an inclusive and rewarding experience.</p>
                             </div>
                         </div>
                     </Col>
